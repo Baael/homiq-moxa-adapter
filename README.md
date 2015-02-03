@@ -24,7 +24,7 @@
   * [ ] auth
 
 * drivers
-  * [*] NPort TTY driver update for kernel 3.11 
+  * [x] NPort TTY driver update for kernel 3.11 
 
 
 
