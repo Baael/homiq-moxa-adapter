@@ -1,0 +1,3 @@
+[submodule "nport_driver"]
+	path = nport_driver
+	url = git@github.com:Baael/MOXA-TTY-DRIVER.git
