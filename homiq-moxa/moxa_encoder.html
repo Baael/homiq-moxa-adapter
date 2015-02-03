@@ -1,0 +1,23 @@
+<script type="text/javascript">
+    RED.nodes.registerType('moxa-encoder',{
+        category: 'moxa',
+        color: '#a6bbcf',
+        defaults: {
+            name: {value:""}
+        },
+        inputs:1,
+        outputs:1,
+        icon: "file.png",
+        label: function() {
+            return "NE-4110S packet encoder"
+        }
+    });
+</script>
+
+<script type="text/x-red" data-template-name="moxa-encoder">
+    <p>NE-4110S Homiq io packet parser</p>
+</script>
+
+<script type="text/x-red" data-help-name="moxa-encoder">
+    <p>NE-4110S Homiq packet parser</p>
+</script>
