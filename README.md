@@ -9,6 +9,7 @@
   * [ ] Real COM mode 
   * [ ] telnet/ssh restart command
   * [ ] event trapping and notifications
+  * [ ] trap SNMP receiver
 
 * communication / system
   * [ ] packets decoder
